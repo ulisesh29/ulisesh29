@@ -1,0 +1,11 @@
+h1{
+  color: blue;
+  font-size: 32pt;
+}
+
+div{
+  border-top: 10px solid lime;
+  border-bottom: 10px solid green;
+  border-left: 10px solid lime;
+  border-right: 10px solid green;
+}
